@@ -12,10 +12,10 @@ function Testimonio(props) {
 
       <div className="testimonio-texto">
         <p className="nombre-testimonio">
-          <b>{props.nombre}</b> en {props.pais}
+          <strong>{props.nombre}</strong> en {props.pais}
         </p>
         <p className="cargo-testimonio">
-          {props.cargo} en <b>{props.empresa}</b>
+          {props.cargo} en <strong>{props.empresa}</strong>
         </p>
         <p className="texto-testimonio">"{props.testimonio}"</p>
       </div>

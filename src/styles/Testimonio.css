@@ -1,5 +1,5 @@
 .testimonio {
-    width: 1170px;
+    width: auto;
     height: 368px;
     margin: 10px 10px 50px;
     display: flex;
@@ -35,4 +35,33 @@
 .texto-testimonio {
     font-size: 1.1rem;
     text-align: justify;
+}
+
+@media (min-width: 1200px) {
+    .testimonio {
+        width: 1170px;
+    }
+}
+
+@media (max-width: 991px) {
+   
+    .testimonio {
+        flex-direction: column;
+        overflow: hidden;
+        height: auto;
+        width: 350px;
+    }
+
+    .nombre-testimonio {
+        font-size: 1.2rem;
+    }
+
+    .cargo-testimonio {
+        font-size: 1.2rem;
+    }
+
+    .texto-testimonio {
+        font-size: 1.1rem;
+    }
+    
 }

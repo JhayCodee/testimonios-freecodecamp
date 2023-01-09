@@ -1,9 +1,11 @@
 import "./App.css";
 import Testimonio from "./components/Testimonio";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <div className="App">
+      <Navbar logo={require("./img/fcc-logo.jpg")} />
       <div className="contenedor-principal">
         <h1>Here is what our alumni say about freeCodeCamp:</h1>
         <Testimonio
