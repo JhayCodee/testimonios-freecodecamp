@@ -33,6 +33,9 @@ function App() {
           imagen={require("./img/emma.png")}
         />
       </div>
+      <footer>
+        <h3>made by Luis Vargas {"<3"} </h3>
+      </footer>
     </div>
   );
 }
