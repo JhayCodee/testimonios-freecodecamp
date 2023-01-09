@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/testimonios-freecodecamp/static/css/main.eca18cc0.css",
+    "main.js": "/testimonios-freecodecamp/static/js/main.d7de16a3.js",
+    "static/media/emma.png": "/testimonios-freecodecamp/static/media/emma.add10415a5668325d2f2.png",
+    "static/media/sarah.png": "/testimonios-freecodecamp/static/media/sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/shawn.png": "/testimonios-freecodecamp/static/media/shawn.0d373888087fb18fc145.png",
+    "static/media/fcc-logo.jpg": "/testimonios-freecodecamp/static/media/fcc-logo.24e008e3eca383a1657a.jpg",
+    "index.html": "/testimonios-freecodecamp/index.html",
+    "main.eca18cc0.css.map": "/testimonios-freecodecamp/static/css/main.eca18cc0.css.map",
+    "main.d7de16a3.js.map": "/testimonios-freecodecamp/static/js/main.d7de16a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca18cc0.css",
+    "static/js/main.d7de16a3.js"
+  ]
+}
