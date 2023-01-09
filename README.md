@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 This project is a clone of the testimonials section from [freecodecamp](https://www.freecodecamp.org/)
 
 ## Available Scripts
